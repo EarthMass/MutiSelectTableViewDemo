@@ -15,6 +15,13 @@
 		4EEDCCCE1D0003D2004EB1D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EEDCCCC1D0003D2004EB1D5 /* LaunchScreen.storyboard */; };
 		4EEDCCD91D0003D2004EB1D5 /* MutiSelectTableViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EEDCCD81D0003D2004EB1D5 /* MutiSelectTableViewDemoTests.m */; };
 		4EEDCCE41D0003D2004EB1D5 /* MutiSelectTableViewDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EEDCCE31D0003D2004EB1D5 /* MutiSelectTableViewDemoUITests.m */; };
+		4EEDCCF91D0012A3004EB1D5 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EEDCCF71D0012A3004EB1D5 /* CustomCell.m */; settings = {ASSET_TAGS = (); }; };
+		4EEDCCFA1D0012A3004EB1D5 /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EEDCCF81D0012A3004EB1D5 /* CustomCell.xib */; settings = {ASSET_TAGS = (); }; };
+		4EEDCCFC1D001313004EB1D5 /* 111.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4EEDCCFB1D001313004EB1D5 /* 111.jpeg */; settings = {ASSET_TAGS = (); }; };
+		4EEDCCFF1D0013F9004EB1D5 /* MutiTableViewVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EEDCCFE1D0013F9004EB1D5 /* MutiTableViewVC.m */; settings = {ASSET_TAGS = (); }; };
+		4EEDCD031D00141E004EB1D5 /* BottomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EEDCD011D00141E004EB1D5 /* BottomView.m */; settings = {ASSET_TAGS = (); }; };
+		4EEDCD041D00141E004EB1D5 /* BottomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EEDCD021D00141E004EB1D5 /* BottomView.xib */; settings = {ASSET_TAGS = (); }; };
+		4EEDCD071D001426004EB1D5 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EEDCD061D001426004EB1D5 /* User.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,17 @@
 		4EEDCCDF1D0003D2004EB1D5 /* MutiSelectTableViewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MutiSelectTableViewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EEDCCE31D0003D2004EB1D5 /* MutiSelectTableViewDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MutiSelectTableViewDemoUITests.m; sourceTree = "<group>"; };
 		4EEDCCE51D0003D2004EB1D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EEDCCF61D0012A3004EB1D5 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		4EEDCCF71D0012A3004EB1D5 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		4EEDCCF81D0012A3004EB1D5 /* CustomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
+		4EEDCCFB1D001313004EB1D5 /* 111.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 111.jpeg; sourceTree = "<group>"; };
+		4EEDCCFD1D0013F9004EB1D5 /* MutiTableViewVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MutiTableViewVC.h; sourceTree = "<group>"; };
+		4EEDCCFE1D0013F9004EB1D5 /* MutiTableViewVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MutiTableViewVC.m; sourceTree = "<group>"; };
+		4EEDCD001D00141E004EB1D5 /* BottomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BottomView.h; sourceTree = "<group>"; };
+		4EEDCD011D00141E004EB1D5 /* BottomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BottomView.m; sourceTree = "<group>"; };
+		4EEDCD021D00141E004EB1D5 /* BottomView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BottomView.xib; sourceTree = "<group>"; };
+		4EEDCD051D001426004EB1D5 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
+		4EEDCD061D001426004EB1D5 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +99,8 @@
 		4EEDCCB21D0003D1004EB1D5 = {
 			isa = PBXGroup;
 			children = (
+				4EEDCCF11D00101C004EB1D5 /* MutiTableView */,
+				4EEDCCF51D00127F004EB1D5 /* UI */,
 				4EEDCCBD1D0003D1004EB1D5 /* MutiSelectTableViewDemo */,
 				4EEDCCD71D0003D2004EB1D5 /* MutiSelectTableViewDemoTests */,
 				4EEDCCE21D0003D2004EB1D5 /* MutiSelectTableViewDemoUITests */,
@@ -101,6 +121,7 @@
 		4EEDCCBD1D0003D1004EB1D5 /* MutiSelectTableViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				4EEDCCFB1D001313004EB1D5 /* 111.jpeg */,
 				4EEDCCC11D0003D2004EB1D5 /* AppDelegate.h */,
 				4EEDCCC21D0003D2004EB1D5 /* AppDelegate.m */,
 				4EEDCCC41D0003D2004EB1D5 /* ViewController.h */,
@@ -138,6 +159,30 @@
 				4EEDCCE51D0003D2004EB1D5 /* Info.plist */,
 			);
 			path = MutiSelectTableViewDemoUITests;
+			sourceTree = "<group>";
+		};
+		4EEDCCF11D00101C004EB1D5 /* MutiTableView */ = {
+			isa = PBXGroup;
+			children = (
+				4EEDCCFD1D0013F9004EB1D5 /* MutiTableViewVC.h */,
+				4EEDCCFE1D0013F9004EB1D5 /* MutiTableViewVC.m */,
+			);
+			path = MutiTableView;
+			sourceTree = "<group>";
+		};
+		4EEDCCF51D00127F004EB1D5 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				4EEDCCF61D0012A3004EB1D5 /* CustomCell.h */,
+				4EEDCCF71D0012A3004EB1D5 /* CustomCell.m */,
+				4EEDCCF81D0012A3004EB1D5 /* CustomCell.xib */,
+				4EEDCD001D00141E004EB1D5 /* BottomView.h */,
+				4EEDCD011D00141E004EB1D5 /* BottomView.m */,
+				4EEDCD021D00141E004EB1D5 /* BottomView.xib */,
+				4EEDCD051D001426004EB1D5 /* User.h */,
+				4EEDCD061D001426004EB1D5 /* User.m */,
+			);
+			name = UI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,8 +289,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EEDCCCE1D0003D2004EB1D5 /* LaunchScreen.storyboard in Resources */,
+				4EEDCCFC1D001313004EB1D5 /* 111.jpeg in Resources */,
 				4EEDCCCB1D0003D2004EB1D5 /* Assets.xcassets in Resources */,
+				4EEDCCFA1D0012A3004EB1D5 /* CustomCell.xib in Resources */,
 				4EEDCCC91D0003D2004EB1D5 /* Main.storyboard in Resources */,
+				4EEDCD041D00141E004EB1D5 /* BottomView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,8 +319,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EEDCCC61D0003D2004EB1D5 /* ViewController.m in Sources */,
+				4EEDCD071D001426004EB1D5 /* User.m in Sources */,
 				4EEDCCC31D0003D2004EB1D5 /* AppDelegate.m in Sources */,
+				4EEDCCFF1D0013F9004EB1D5 /* MutiTableViewVC.m in Sources */,
 				4EEDCCC01D0003D2004EB1D5 /* main.m in Sources */,
+				4EEDCCF91D0012A3004EB1D5 /* CustomCell.m in Sources */,
+				4EEDCD031D00141E004EB1D5 /* BottomView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +466,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MutiSelectTableViewDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.guohx.StoryboardUse.MutiSelectTableViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -425,6 +478,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MutiSelectTableViewDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.guohx.StoryboardUse.MutiSelectTableViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -498,6 +552,7 @@
 				4EEDCCEA1D0003D2004EB1D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4EEDCCEB1D0003D2004EB1D5 /* Build configuration list for PBXNativeTarget "MutiSelectTableViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +561,7 @@
 				4EEDCCED1D0003D2004EB1D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4EEDCCEE1D0003D2004EB1D5 /* Build configuration list for PBXNativeTarget "MutiSelectTableViewDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +570,7 @@
 				4EEDCCF01D0003D2004EB1D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
